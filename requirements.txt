@@ -1,3 +1,4 @@
-flask 
-openpyxl 
-python-dateutil 
+Flask
+requests
+openpyxl
+python-dateutil
